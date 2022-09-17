@@ -2,8 +2,5 @@
   {
     "package": "wheatmap",
     "oncran": true
-  },
-  {
-    "package": "sesame"
   }
 ]

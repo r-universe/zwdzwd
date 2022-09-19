@@ -8,3 +8,8 @@
 	url = https://github.com/zwdzwd/wheatmap
 	shallow = true
 	registered = true
+[submodule "sesame"]
+	path = sesame
+	url = https://github.com/zwdzwd/sesame
+	shallow = true
+	registered = true

@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "wheatmap"]
-	path = wheatmap
-	url = https://github.com/zwdzwd/wheatmap
-	shallow = true
-	registered = true
 [submodule "sesame"]
 	path = sesame
 	url = https://github.com/zwdzwd/sesame
+	shallow = true
+	registered = true
+[submodule "wheatmap"]
+	path = wheatmap
+	url = https://github.com/zwdzwd/wheatmap
 	shallow = true
 	registered = true

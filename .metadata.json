@@ -1,9 +1,0 @@
-[
-  {
-    "package": "sesame"
-  },
-  {
-    "package": "wheatmap",
-    "oncran": true
-  }
-]

@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "sesame"]
-	path = sesame
-	url = https://github.com/zwdzwd/sesame
 [submodule "wheatmap"]
 	path = wheatmap
 	url = https://github.com/zwdzwd/wheatmap
